@@ -22,10 +22,10 @@ function prependKitten(name) {
   return [name, ...kittens];
 }
 function removeLastKitten() {
+  
+}
+function removeFirstKitten() {
   var newArray = [...kittens];
   newArray.shift();
   return newArray;
-}
-function removeFirstKitten() {
-
 }
