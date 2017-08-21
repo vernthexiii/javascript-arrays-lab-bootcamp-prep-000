@@ -27,5 +27,5 @@ function removeLastKitten() {
   return newArray;
 }
 function removeFirstKitten() {
-  
+
 }
